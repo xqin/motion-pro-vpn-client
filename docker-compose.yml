@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  my-vpn-client:
+    container_name: my-vpn-client
+    build: ./
+    tty: true
+    restart: always
+    privileged: true

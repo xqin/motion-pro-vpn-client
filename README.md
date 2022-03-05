@@ -2,13 +2,15 @@
 
 Maintained by: [w0o0ps](https://github.com/w0o0ps)
 
+Upgrade MotionPro Client from v1.2.7 to v1.2.13
+
 # Supported tags and respective `Dockerfile` links
 
 - [`9.4.0.356`, `9.4.0`, `9.4`, `9`, `latest`](https://github.com/w0o0ps/motion-pro-vpn-client/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
-- Source binaries: [Array Networks](https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/downloads/downloads.html)
+- Source binaries: [Array Networks](https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/downloads/downloads.html)  https://client.arraynetworks.com.cn:8080/zh/troubleshooting
 - Manual: [IBM Cloud doc](https://cloud.ibm.com/docs/iaas-vpn?topic=iaas-vpn-standalone-vpn-clients&locale=en)
 
 # What is Motion Pro?
